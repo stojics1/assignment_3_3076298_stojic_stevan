@@ -1,0 +1,10 @@
+.inboxtrash{
+    display: flex;
+    flex-shrink: 0;
+   flex-direction: column;
+   margin-right: .5vw;
+   outline-style: solid;
+   width: 15vw;
+}
+
+
